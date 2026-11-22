@@ -1,15 +1,15 @@
-# tactical-intervention
-## Tactical Intervention - Rainbow Six
+# tactical-intervention-rainbow-six-1998
+## Tactical Intervention - Rainbow Six 1998
 A total conversion mod for Tactical Intervention that remakes the 1998 game Rainbow Six, recreating its missions, environments, weapons, vehicles, and combat experience in the Tactical Intervention source engine.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/tactical-intervention](https://treegit.macosxjs.com/?url=igiteam/tactical-intervention)
+[https://treegit.macosxjs.com/?url=igiteam/tactical-intervention-rainbow-six-1998](https://treegit.macosxjs.com/?url=igiteam/tactical-intervention-rainbow-six-1998)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/tactical-intervention/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/tactical-intervention/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/tactical-intervention-rainbow-six-1998/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/tactical-intervention-rainbow-six-1998/git/trees/main?recursive=1)
 
 ## Base gameplay
-[![Tactical Intervention](https://raw.githubusercontent.com/igiteam/tactical-intervention/refs/heads/main/tactical_intervention4.jpg)](https://raw.githubusercontent.com/igiteam/tactical-intervention/refs/heads/main/tactical_intervention4.jpg)
+[![Tactical Intervention](https://raw.githubusercontent.com/igiteam/tactical-intervention-rainbow-six-1998/refs/heads/main/tactical_intervention4.jpg)](https://raw.githubusercontent.com/igiteam/tactical-intervention-rainbow-six-1998/refs/heads/main/tactical_intervention4.jpg)
 
 [![Tactical Intervention - Gameplay (Part 1)](https://img.youtube.com/vi/MWGeGim-eec/hqdefault.jpg)](https://ytembed.macosxjs.com/?TVdHZUdpbS1lZWM)
 
@@ -127,7 +127,7 @@ Join the [Discord](https://discord.gg/DZhySxaVbr) to chat with other players and
 ## How to install
 Tactical Intervention Revived will install the whole game as part of the setup process. No previous installs of Tactical Intervention are required.
 
-1. Download the [latest version of Tactical Intervention Revived](https://github.com/vingard/Tactical-Intervention-Revived/releases/latest) (Under 'Assets' select `Tactical-Intervention-Revived-Setup-X.X.X.exe` with the `X` being the version numbers)
+1. Download the [latest version of Tactical Intervention Revived](https://github.com/vingard/tactical-intervention-rainbow-six-1998-Revived/releases/latest) (Under 'Assets' select `tactical-intervention-rainbow-six-1998-Revived-Setup-X.X.X.exe` with the `X` being the version numbers)
 2. Run the launcher installer you just downloaded
 3. Open the launcher, follow the automated steps to download and install the game files
 4. That's it, simple!
@@ -143,10 +143,10 @@ If the IP owner of Tactical Intervention wishes, Tactical Intervention Revived w
 To enable Tactical Intervention Revived's awesome mod support, all the game content files are linked to the game directory virtually with symlinks. To create symlinks on Windows, administrator permissions are required. These symlinks create a 'portal' to files in other locations, tricking the source engine to load the virtual file system that Tactical Intervention Revived creates.
 
 ## Hosting a server
-See the [Hosting a Server](https://github.com/vingard/Tactical-Intervention-Revived/wiki/Hosting-a-Server) page on the Wiki.
+See the [Hosting a Server](https://github.com/vingard/tactical-intervention-rainbow-six-1998-Revived/wiki/Hosting-a-Server) page on the Wiki.
 
 ## Wiki (modding guidance)
-Find further documentation (including mod creation guides) in the [Tactical Intervention Revived Wiki](https://github.com/vingard/Tactical-Intervention-Revived/wiki).
+Find further documentation (including mod creation guides) in the [Tactical Intervention Revived Wiki](https://github.com/vingard/tactical-intervention-rainbow-six-1998-Revived/wiki).
 
 ## Contributions
 Tactical Intervention Revived is an open-source project. All contributions are welcome, just fork the repo and make a PR.
