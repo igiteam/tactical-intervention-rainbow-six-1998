@@ -9,7 +9,7 @@ A total conversion mod for Tactical Intervention that remakes the 1998 game Rain
 [https://api.github.com/repos/igiteam/tactical-intervention-rainbow-six-1998/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/tactical-intervention-rainbow-six-1998/git/trees/main?recursive=1)
 
 ## Base gameplay
-[![Tactical Intervention](https://raw.githubusercontent.com/igiteam/tactical-intervention-rainbow-six-1998/refs/heads/main/tactical_intervention4.jpg)](https://raw.githubusercontent.com/igiteam/tactical-intervention-rainbow-six-1998/refs/heads/main/tactical_intervention4.jpg)
+[![Tactical Intervention](https://github.com/igiteam/tactical-intervention-rainbow-six-1998/blob/main/tactical_intervention4.png)](https://github.com/igiteam/tactical-intervention-rainbow-six-1998/blob/main/tactical_intervention4.png)
 
 [![Tactical Intervention - Gameplay (Part 1)](https://img.youtube.com/vi/MWGeGim-eec/hqdefault.jpg)](https://ytembed.macosxjs.com/?TVdHZUdpbS1lZWM)
 
