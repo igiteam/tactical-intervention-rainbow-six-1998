@@ -1,3 +1,106 @@
+# tactical-intervention
+## Tactical Intervention - Rainbow Six
+A total conversion mod for Tactical Intervention that remakes the 1998 game Rainbow Six, recreating its missions, environments, weapons, vehicles, and combat experience in the Tactical Intervention source engine.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/tactical-intervention](https://treegit.macosxjs.com/?url=igiteam/tactical-intervention)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/tactical-intervention/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/tactical-intervention/git/trees/main?recursive=1)
+
+## Base gameplay
+[![Tactical Intervention](https://raw.githubusercontent.com/igiteam/tactical-intervention/refs/heads/main/tactical_intervention4.jpg)](https://raw.githubusercontent.com/igiteam/tactical-intervention/refs/heads/main/tactical_intervention4.jpg)
+
+[![Tactical Intervention - Gameplay (Part 1)](https://img.youtube.com/vi/MWGeGim-eec/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TVdHZUdpbS1lZWM)
+
+[![Tom Clancy's Rainbow Six 1 (1998) - PC Gameplay](https://img.youtube.com/vi/VJHHES-PHvU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VkpISEVTLVBIdlU)
+
+[![레인보우식스1(1998,PC) 클리어. 끝까지 하기. 최고난이도 노데쓰. LONGPLAY](https://img.youtube.com/vi/5gb4JJFlVE8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NWdiNEpKRmxWRTg)
+
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+## Reference links
+[https://www.betaarchive.com/forum/viewtopic.php?t=21508](https://www.betaarchive.com/forum/viewtopic.php?t=21508)
+
+# Documentation Images
+
+[![both_monaco_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/both_monaco_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/both_monaco_01.png)
+
+[![both_uprising_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/both_uprising_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/both_uprising_01.png)
+
+[![both_uprising_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/both_uprising_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/both_uprising_02.png)
+
+[![game_intermission_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/game_intermission_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/game_intermission_01.png)
+
+[![mis_airport_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_airport_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_airport_01.png)
+
+[![mis_airport_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_airport_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_airport_02.png)
+
+[![mis_castalla_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_castalla_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_castalla_01.png)
+
+[![mis_classicmall_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_classicmall_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_classicmall_01.png)
+
+[![mis_construction_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_construction_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_construction_01.png)
+
+[![mis_construction_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_construction_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_construction_02.png)
+
+[![mis_highway_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_highway_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_highway_01.png)
+
+[![mis_highway_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_highway_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_highway_02.png)
+
+[![mis_highway_03.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_highway_03.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_highway_03.png)
+
+[![mis_innercity_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_innercity_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_innercity_01.png)
+
+[![mis_mall_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_mall_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_mall_01.png)
+
+[![mis_milan_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_milan_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_milan_01.png)
+
+[![mis_morningcalm_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_morningcalm_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_morningcalm_01.png)
+
+[![mis_morningcalm_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_morningcalm_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_morningcalm_02.png)
+
+[![mis_office_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_office_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_office_01.png)
+
+[![mis_skyrise_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_skyrise_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_skyrise_01.png)
+
+[![mis_skyrise_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_skyrise_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_skyrise_02.png)
+
+[![mis_skytrain_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_skytrain_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_skytrain_01.png)
+
+[![mis_villa_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_villa_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_villa_01.png)
+
+[![mis_villa_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_villa_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_villa_02.png)
+
+[![mis_villa_03.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_villa_03.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/mis_villa_03.png)
+
+[![study_01_nullfail.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_01_nullfail.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_01_nullfail.png)
+
+[![study_02_cvarflags.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_02_cvarflags.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_02_cvarflags.png)
+
+[![study_03_navedit.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_03_navedit.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_03_navedit.png)
+
+[![study_04_ladderlads.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_04_ladderlads.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_04_ladderlads.png)
+
+[![study_05_toolsa.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_05_toolsa.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_05_toolsa.png)
+
+[![study_06_toolsb.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_06_toolsb.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/study_06_toolsb.png)
+
+[![ti_tdm_01.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_01.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_01.png)
+
+[![ti_tdm_02.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_02.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_02.png)
+
+[![ti_tdm_03.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_03.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_03.png)
+
+[![ti_tdm_04.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_04.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_04.png)
+
+[![ti_tdm_05.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_05.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_05.png)
+
+[![ti_tdm_06.png](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_06.png)](https://raw.githubusercontent.com/Tsuey/Tactically-Decompiled/main/documentation/images/ti_tdm_06.png)
+
 <p align="center">
   <img src="./readme_assets/icon.png" alt="Tactical Intervention Revived Logo" width="180px"/>
 </p>
@@ -47,4 +150,43 @@ Find further documentation (including mod creation guides) in the [Tactical Inte
 
 ## Contributions
 Tactical Intervention Revived is an open-source project. All contributions are welcome, just fork the repo and make a PR.
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
+If you are a rights holder and believe something here should not be distributed,
+please open an issue or contact the maintainer and it will be addressed
+promptly.
 
