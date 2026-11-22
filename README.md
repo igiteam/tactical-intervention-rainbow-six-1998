@@ -11,7 +11,7 @@ A total conversion mod for Tactical Intervention that remakes the 1998 game Rain
 ## Base gameplay
 [![Tactical Intervention](https://raw.githubusercontent.com/igiteam/tactical-intervention/refs/heads/main/tactical_intervention4.jpg)](https://raw.githubusercontent.com/igiteam/tactical-intervention/refs/heads/main/tactical_intervention4.jpg)
 
-[![Tactical Intervention - Gameplay (Part 1)](https://img.youtube.com/vi/MWGeGim-eec/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TVdHZUdpbS1lZWM)
+[![Tactical Intervention - Gameplay (Part 1)](https://img.youtube.com/vi/MWGeGim-eec/hqdefault.jpg)](https://ytembed.macosxjs.com/?TVdHZUdpbS1lZWM)
 
 [![Tom Clancy's Rainbow Six 1 (1998) - PC Gameplay](https://img.youtube.com/vi/VJHHES-PHvU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VkpISEVTLVBIdlU)
 
