@@ -1,5 +1,5 @@
 # tactical-intervention-rainbow-six-1998
-## Tactical Intervention - Rainbow Six 1998
+## Tactical Intervention - Rainbow Six 1998 Remake
 A total conversion mod for Tactical Intervention that remakes the 1998 game Rainbow Six, recreating its missions, environments, weapons, vehicles, and combat experience in the Tactical Intervention source engine.
 
 ## Github Treeview
